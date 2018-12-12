@@ -1,0 +1,37 @@
+{
+  "kingdom": {
+    "id": 1,
+    "name": "Everwinter",
+    "image": "https:\/\/pixabay.com\/static\/uploads\/photo\/2013\/08\/20\/01\/49\/gaudi-174147_640.jpg"
+  },
+  "kingdom": {
+    "id": 2,
+    "name": "Blackburn",
+    "image": "https:\/\/pixabay.com\/static\/uploads\/photo\/2013\/10\/28\/23\/32\/sterling-castle-202103_640.jpg"
+  },
+  "kingdom": {
+    "id": 3,
+    "name": "Lakeshore",
+    "image": "https:\/\/pixabay.com\/static\/uploads\/photo\/2015\/05\/29\/17\/39\/noble-789501_640.jpg"
+  },
+  "kingdom": {
+    "id": 4,
+    "name": "Wingston",
+    "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/17\/Greenland_scoresby-sydkapp2_hg.jpg\/640px-Greenland_scoresby-sydkapp2_hg.jpg"
+  },
+  "kingdom": {
+    "id": 5,
+    "name": "Lindow",
+    "image": "https:\/\/pixabay.com\/static\/uploads\/photo\/2015\/05\/02\/09\/31\/dresden-749683_640.jpg"
+  },
+  "kingdom": {
+    "id": 6,
+    "name": "Whiteridge",
+    "image": "https:\/\/pixabay.com\/static\/uploads\/photo\/2012\/06\/22\/23\/36\/castle-50521_960_720.jpg"
+  },
+  "kingdom": {
+    "id": 7,
+    "name": "Bankton",
+    "image": "https:\/\/pixabay.com\/static\/uploads\/photo\/2014\/10\/20\/22\/22\/budapest-495752_640.jpg"
+  }
+}
